@@ -24,7 +24,7 @@
     <ul>
       <li>Sleep</li>
       <li>Stink up the Place Cheese</li>
-      <li>Kill inocent creatures</li>
+      <li>Kill innocent creatures</li>
       <li>Chew on defenseless chipmunks</li>
       <li>Sleep on the Bed and Fart up a Storm</li>  
     </ul>
